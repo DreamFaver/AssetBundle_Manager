@@ -21,6 +21,8 @@
 1. Go to: `Window → Package Manager`
 2. Click the **+** → `Add package from Git URL...`
 3. Paste:
+4. if didn't worked which won't  :3
+5. just download it manually and add it to your project.
 ---
 
 ## 🖼️ How to Use
