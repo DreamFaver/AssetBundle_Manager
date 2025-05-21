@@ -25,18 +25,7 @@
 5. just download it manually and add it to your project.
 ---
 
-## 🖼️ How to Use
-
-### 🪟 Step 1: Open the AssetBundle Creator
-
-![Step 1](.github/images/step1.png)
-
-At the top of the Unity Editor window:  
-**PinkFish Utility → Assetbundle → Creator**
-
----
-
-### 🧱 Step 2: Create Your Bundle
+### 🧱 Step 1: Create Your Bundle
 
 ![Step 2](.github/images/step2.png)
 
@@ -45,6 +34,17 @@ At the top of the Unity Editor window:
 - Bundle name (e.g. `mybundle`)
 - Extension name (e.g. `.meta`)
 - ❗ Use **lowercase** names and **no spaces**
+
+---
+
+## 🖼️ How to Use
+
+### 🪟 Step 2: Open the AssetBundle Creator
+
+![Step 1](.github/images/step1.png)
+
+At the top of the Unity Editor window:  
+**PinkFish Utility → Assetbundle → Creator**
 
 ---
 
