@@ -12,7 +12,7 @@
 - 📜 View all loaded asset names in the Inspector
 - 🧹 Unload all bundles with a click
 - 🧪 Editor-only execution (works without Play Mode)
-- 🧩 Packaged for Unity Package Manager (via Git)
+- 🧩 Packaged for Unity Package Manager (via Git) => still WIP
 
 ---
 
