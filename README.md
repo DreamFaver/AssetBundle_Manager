@@ -61,8 +61,8 @@ At the top of the Unity Editor window:
 
 ## 🧩 Folder Structure
 - _PinkFish_Utility
-- Asset Bundle Creator
-- Runtime
-- Editor
-    - Resources
-    - Scripts
+    - Asset Bundle Creator
+    - Runtime
+    - Editor
+        - Resources
+        - Scripts
